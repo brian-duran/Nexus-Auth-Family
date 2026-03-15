@@ -109,7 +109,7 @@ Esta estructura facilita el mantenimiento y la escalabilidad, permitiendo que ca
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/userapp-api.git
+    git clone https://github.com/brian-duran/Nexus-Auth-Family.git
    ```
 2. **Configurar variables de entorno:**
    Crea un archivo `.env` o configura tu IDE con: `DB_URL`, `DB_USERNAME`, `DB_PASSWORD`, `JWT_SECRET`.
