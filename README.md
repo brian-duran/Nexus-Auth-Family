@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.10-brightgreen?style=for-the-badge&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6.x-blue?style=for-the-badge&logo=springsecurity)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 `userapp-api` es un núcleo de identidad y seguridad de grado empresarial diseñado para gestionar la autenticación y autorización con un enfoque de **Seguridad Bidireccional**. Implementa estándares modernos para mitigar riesgos como el secuestro de sesiones y el robo de credenciales mediante un flujo avanzado de JWT y rotación de tokens.
 
@@ -110,7 +109,7 @@ Esta estructura facilita el mantenimiento y la escalabilidad, permitiendo que ca
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/userapp-api.git
+   [git clone https://github.com/tu-usuario/userapp-api.git](https://github.com/brian-duran/Nexus-Auth-Family.git)
    ```
 2. **Configurar variables de entorno:**
    Crea un archivo `.env` o configura tu IDE con: `DB_URL`, `DB_USERNAME`, `DB_PASSWORD`, `JWT_SECRET`.
